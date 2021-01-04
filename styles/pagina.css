@@ -2,6 +2,10 @@ body {
     margin: 0;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 a {
     color: #3366cc;
 }
